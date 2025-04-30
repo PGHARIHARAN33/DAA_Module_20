@@ -1,5 +1,5 @@
 # EX 2C BACKTRACKING- SUBSET SUM PROBLEM
-## DATE:
+## DATE:26/04/2025
 ## AIM:
 To find the number of subsets in an array whose sum is equal to a given target sum using recursion.
 
